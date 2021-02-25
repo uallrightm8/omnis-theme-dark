@@ -1,0 +1,271 @@
+{
+    "breadcrumb": {
+        "breadcrumboutlinecolor": -2147483599,
+        "breadcrumbtextcolor": -2147483599,
+        "activebreadcrumbtextcolor": -2147483599,
+        "activebreadcrumbcolor": -2147483599,
+        "breadcrumbcolor": -2147483599
+    },
+    "checkRadio": {
+        "colorcheckradiobordermacos": -2147483599,
+        "colorcheckradiochecked": -2147483599,
+        "colorcheckradiocheckedpressed": -2147483599,
+        "colorcheckradiomark": -2147483599,
+        "colorcheckradiomarkdisabled": -2147483599,
+        "colorcheckradiomarkhot": -2147483599,
+        "colorcheckradiounchecked": -2147483599,
+        "colorcheckradiouncheckedpressed": -2147483599
+    },
+    "compareTool": {
+        "comparemethodlinescolor": 16777215,
+        "comparechangescolor": 16776960,
+        "comparedeletescolor": 65535,
+        "compareinsertscolor": 9764695
+    },
+    "dropList": {
+        "disablewindowsdroplistthemeforuserwindows": false
+    },
+    "edit": {
+        "colorctrleditborder": 9605778,
+        "colorctrleditborderinsetmacos": 4275772,
+        "coloredithilightmacos": 8613732
+    },
+    "generalButton": {
+        "colorbtnface": 2696753,
+        "colorbtnshadow": 2104616,
+        "colorbtntext": 16777215
+    },
+    "groupBox": {
+        "colorctrlgroupboxborder": 6250335,
+        "colorctrlgroupboxmacos": 5592405
+    },
+    "header": {
+        "colorheader": 2696753,
+        "colorheaderbtnpressedmacos": 2104616,
+        "colorheaderhot": 8613732,
+        "colorheaderpressed": 2696753,
+        "colorheaderseparator": 6645093,
+        "colorheadertextwin": 14539998
+    },
+    "animatedcheckradio": {
+        "horzcheckradiobackground": -2147483599,
+        "horzcheckradiosecondarycolor": -2147483599,
+        "horzcheckradioofftextcolor": -2147483599,
+        "horzcheckradioprimarycolor": -2147483599,
+        "horzcheckradioontextcolor": -2147483599,
+        "horzcheckradiodisabled": -2147483599
+    },
+    "IDEgeneral": {
+        "clientexeccolor": 47360,
+        "colorpropertymanager": 2104616,
+        "colorreportdesignposnsectiontext": 16777087,
+        "inheritedcolor": 65535,
+        "nosetpropertycolor": 16777087,
+        "runtimepropertycolor": 14658527,
+        "setpropertycolor": 8388607,
+        "toolobjselectcolor": 16776960,
+        "styledbadgebackgroundcolor": -2147483599,
+        "styledbadgetextcolor": -2147483599
+    },
+    "IDEmethodEditor": {
+        "methodcurrentlinebackgroundcolor": 3748399,
+        "methodeditorcodebackgroundcolor": 2104616,
+        "methodeditorcodereadonlybackgroundcolor": 2104616,
+        "methodeditorcodeleftmarginbackgroundcolor": 2696753,
+        "methodhighlightcolor": 8613732,
+        "methodhighlightnofocuscolor": 8613732,
+        "overriddenmethodstyle": 1,
+        "overriddenbuiltinmethodstyle": 2,
+        "syntaxwordhighlightcolor": 8613732,
+        "codeassistantpopupcolor": 2696753,
+        "treelinesmatchingsearchcolor": 8613732,
+        "executionpositioncolor": 8613732
+    },
+    "IDEmethodSyntax": {
+        "badsyntaxcolor": 3682626,
+        "bracketbackcolor": -2147483599,
+        "bracketcolor": 64511,
+        "classvariablecolor": 11780728,
+        "classvariablestyle": 1,
+        "commentcolor": 9997439,
+        "commentstyle": 0,
+        "constantcolor": 5218815,
+        "constantstyle": 0,
+        "ctrlkeywordcolor": 11696895,
+        "ctrlkeywordstyle": 0,
+        "currentblockcolor": 11696895,
+        "currentblockstyle": 1,
+        "eventparametercolor": 15004332,
+        "eventparameterstyle": 0,
+        "functioncolor": 11780728,
+        "functionstyle": 0,
+        "hashvariablecolor": 14540287,
+        "hashvariablestyle": 0,
+        "instancevariablecolor": 11780728,
+        "instancevariablestyle": 1,
+        "keywordcolor": 11696895,
+        "keywordstyle": 0,
+        "localvariablecolor": 11780728,
+        "localvariablestyle": 1,
+        "methodothertextcolor": -2147483599,
+        "notationcolor": 11780728,
+        "notationstyle": 0,
+        "optioncolor": 8947967,
+        "optionstyle": 0,
+        "parametervariablecolor": 11780728,
+        "parametervariablestyle": 1,
+        "resolvednamecolor": 14540032,
+        "resolvednamestyle": 0,
+        "unresolvednamecolor": 14803171,
+        "unresolvednamestyle": 0,
+        "useresolvednamecolorsandstyles": true,
+        "stringcolor": 7373311,
+        "stringstyle": 0,
+        "taskvariablecolor": 11780728,
+        "taskvariablestyle": 1,
+        "variablecolor": 11780728,
+        "variablestyle": 0
+    },
+    "list": {
+        "alternatelinecolorplatforms": 1,
+        "colorctrllistborder": 9605778,
+        "colorlistevenrowbackground": 2104616,
+        "colorlistlinehotselectedwin": 8613732,
+        "colorlistlinehotwin": 8613732,
+        "colorlistlineselectedwin": 8613732,
+        "colorlistlineunfocusedwin": 11184810,
+        "colorlistoddrowbackground": 2104616
+    },
+    "menu": {
+        "colormenu": 2696753,
+        "colormenuhilight": 8613732,
+        "colormenupenwin": 14540253,
+        "colormenutext": 14539998,
+        "colormenuwindowmenubartextwin": 16777215,
+        "colormenuwindowmenubarwin": 7829367
+    },
+    "methodChecker": {
+        "mcheckerrorcolor": 12303359,
+        "mchecklevel1color": 16759739,
+        "mchecklevel2color": 12320699
+    },
+    "pagePreview": {
+        "colorpreviewfoundhighlight": 16776960,
+        "colorpreviewfoundtext": 16776960,
+        "colorpreviewfoundtextbackground": 16711680,
+        "colorpreviewpaper": -2147483599
+    },
+    "pushButton": {
+        "colorpush": 2104616,
+        "colorpushborder": 2696753,
+        "colorpushdefault": 2104616,
+        "colorpushdefaultflash": false,
+        "colorpushdefaulttextmacos": 14539998,
+        "colorpushdisabled": 2696753,
+        "colorpushdisabledborder": 2696753,
+        "colorpushhot": 11184810,
+        "colorpushhotborder": 2104616,
+        "colorpushpressed": 2696753,
+        "colorpushpressedborder": 2696753,
+        "colorpushpressedtextmacos": 14539998
+    },
+    "scrollbar": {
+        "colorscrollbar": 3617586,
+        "colorscrollbararrowwin": 10328986,
+        "colorscrollbardisabledarrowwin": 7433838,
+        "colorscrollbarhotarrowwin": 8613732,
+        "colorscrollbarhotbuttonwin": 10328986,
+        "colorscrollbarhotthumb": 10328986,
+        "colorscrollbarthumb": 7433838,
+        "colorscrollbartrackingarrowwin": 8613732,
+        "colorscrollbartrackingbuttonwin": 10328986,
+        "colorscrollbartrackingthumbwin": 10328986,
+        "colorscrollbarwarmthumbwin": 10328986
+    },
+    "system": {
+        "color3ddkshadow": 12303291,
+        "color3dface": 5526612,
+        "color3dhighlight": 7829367,
+        "color3dhilight": 7829367,
+        "color3dlight": 2763306,
+        "color3dshadow": 7829367,
+        "coloractiveborder": 4934475,
+        "coloractivecaption": 3033958,
+        "colorappworkspace": 5921370,
+        "colorbtnhighlight": 3947580,
+        "colorcaptiontext": 14539998,
+        "colorgradientactivecaption": 1388102,
+        "colorgradientinactivecaption": 858920,
+        "colorgraytext": 9997439,
+        "colorhighlight": 8613732,
+        "colorhighlightnofocus": 8947848,
+        "colorhighlighttext": 14539998,
+        "colorhotlight": 8613732,
+        "colorinactiveborder": 198667,
+        "colorinactivecaption": 2372160,
+        "colorinactivecaptiontext": 14539998,
+        "coloroutlinedeselected": 8613732,
+        "coloroutlineselected": 8613732,
+        "coloroutlinetextdeselected": 14539998,
+        "coloroutlinetextselected": 14539998,
+        "colorqbackfill": 0,
+        "colorqforefill": 2696753,
+        "colorqframe": 2696753,
+        "colorthemered": 16777087,
+        "colorwindow": 2696753,
+        "colorwindowframe": 2696753,
+        "colorwindowtext": 14539998,
+        "fadewhendisabledcolor": -2147483599,
+        "fadewhendisabledalpha": 140
+    },
+    "tabPane": {
+        "colortab": 2104616,
+        "colortabborder": 2696753,
+        "colortabdisabled": 14539998,
+        "colortabhot": 2696497,
+        "colortabselected": 3947580,
+        "colortabselectedtextmacos": 16777215
+    },
+    "toast": {
+        "toastsuccessbackgroundcolor": -2147483599,
+        "toastsuccesstextcolor": -2147483599,
+        "toastsuccessicon": 3309,
+        "toasterrorbackgroundcolor": -2147483599,
+        "toasterrortextcolor": -2147483599,
+        "toasterroricon": 3307,
+        "toastwarningbackgroundcolor": -2147483599,
+        "toastwarningtextcolor": -2147483599,
+        "toastwarningicon": 3310,
+        "toastinformationbackgroundcolor": -2147483599,
+        "toastinformationtextcolor": -2147483599,
+        "toastinformationicon": 3308,
+        "toastdefaultdelay": 4000,
+        "toastdefaultwidth": 400
+    },
+    "token": {
+        "validtokenbackcolor": -2147483599,
+        "validtokentextcolor": -2147483599,
+        "invalidtokenbackcolor": -2147483599,
+        "invalidtokentextcolor": -2147483599
+    },
+    "toolbar": {
+        "colortoolbarobjecthighlightwin": 2228258,
+        "disabledockingareagradient": false,
+        "dockingareacolor": 6645093,
+        "dockingareatextcolor": 16777215
+    },
+    "tooltip": {
+        "systemstyle": true,
+        "colorinfobk": 1966080,
+        "colorinfotext": 16777215,
+        "tooltipbackgroundcolor": -2147483599,
+        "tooltiptextcolor": -2147483599,
+        "defaultjustification": 0
+    },
+    "tree": {
+        "colorbrowsertreebackgroundmacos": 2696753,
+        "colortreeiconcollapsed": 11445931,
+        "colortreeiconexpanded": 11445931,
+        "colortreeiconhot": 8613732
+    }
+}
